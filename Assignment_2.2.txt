@@ -1,0 +1,14 @@
+a = 5
+b = 10
+c = 7
+
+if a == 5:
+    print ('value: 10')
+    
+if b > a: 
+    print ('Value: sept')
+
+if a < c < b:
+    print ('value: 2020')
+    
+    
